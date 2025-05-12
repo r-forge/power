@@ -1,7 +1,9 @@
 Package: sse
 Type: Package
 Title: Sample Size Estimation
-Version: 0.7-17
+Version: 0.7-18
+Author@R: c(person("Thomas", "Developer", role = c("aut", "cre"),
+                     email = "thomas.fabbro@unibas.ch"))
 Author: Thomas Fabbro [aut, cre]
 Maintainer: Thomas Fabbro <thomas.fabbro@unibas.ch>
 URL: http://r-forge.r-project.org/projects/power/

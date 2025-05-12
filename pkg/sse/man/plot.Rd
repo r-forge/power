@@ -48,7 +48,7 @@
 \value{A plot is generated but nothing is returned.}
 
 \seealso{\code{\link{inspect}} for drawing an inspection plot and
-  \code{\link{levelplot}} for further arguments that can be passed to
+  \code{\link[lattice]{levelplot}} for further arguments that can be passed to
   plot.}
 
 \examples{
